@@ -1,4 +1,4 @@
-_author_='Mohnish Mallya'
+__author__='Mohnish Mallya'
 # Importing all necessary libraries
 from bs4 import BeautifulSoup
 from selenium import webdriver
