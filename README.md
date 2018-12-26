@@ -22,7 +22,7 @@ Once you have this list, run a sentiment analysis on twitter for each celebrity 
 •	Overall Sentiment on Twitter: Positive, Negative or Neutral 
 
 # Tools and Packages Used
-•	Python Version 3.5
+•	Python Version 3.7.1
 •	Tweepy: is an open-sourced, easy-to-use Python library for accessing the Twitter API.
 •	Codecs: Used for text encodings, which encode text to bytes, text to text and bytes to bytes.
 •	String: To remove all punctuations from tweets.

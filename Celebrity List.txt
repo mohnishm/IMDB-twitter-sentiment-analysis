@@ -1,0 +1,90 @@
+Name of the celebrity:  Donald Moffat
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMTMyMTg1NTk0MV5BMl5BanBnXkFtZTcwODc4NDgwMw@@._V1_UY209_CR10,0,140,209_AL_.jpg
+Profession: Actor
+Best Work:  The Thing
+
+Overall Sentiment on Twitter: NEUTRAL
+*********************************************************************************
+
+Name of the celebrity:  Kit Harington
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMTA2NTI0NjYxMTBeQTJeQWpwZ15BbWU3MDIxMjgyNzY@._V1_UX140_CR0,0,140,209_AL_.jpg
+Profession: Actor
+Best Work:  Game of Thrones
+
+Overall Sentiment on Twitter: POSITIVE
+*********************************************************************************
+
+Name of the celebrity:  Temuera Morrison
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMjAwNjQ0MTM1M15BMl5BanBnXkFtZTcwMzEzNDg3OA@@._V1_UY209_CR5,0,140,209_AL_.jpg
+Profession: Actor
+Best Work:  Once Were Warriors
+
+Overall Sentiment on Twitter: POSITIVE
+*********************************************************************************
+
+Name of the celebrity:  Jared Leto
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMTczMjUwNDUzMF5BMl5BanBnXkFtZTgwNDA4OTAzMTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+Profession: Actor
+Best Work:  Dallas Buyers Club
+
+Overall Sentiment on Twitter: POSITIVE
+*********************************************************************************
+
+Name of the celebrity:  Georgia Hirst
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BN2FhNDdkOTAtZDZkZC00YTBlLWJhYzItNjUxZjY0ZWFiYWMxL2ltYWdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UY209_CR86,0,140,209_AL_.jpg
+Profession: Actress
+Best Work:  Vikings
+
+Overall Sentiment on Twitter: NEUTRAL
+*********************************************************************************
+
+Name of the celebrity:  Beth Behrs
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMTM5NjU2Mzc3NV5BMl5BanBnXkFtZTcwMDA3Mjc5Nw@@._V1_UY209_CR7,0,140,209_AL_.jpg
+Profession: Actress
+Best Work:  2 Broke Girls
+
+Overall Sentiment on Twitter: NEUTRAL
+*********************************************************************************
+
+Name of the celebrity:  Eden Sher
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMTg1NzM4NTA3MV5BMl5BanBnXkFtZTcwNjk0ODUzMQ@@._V1_UY209_CR5,0,140,209_AL_.jpg
+Profession: Actress
+Best Work:  The Middle
+
+Overall Sentiment on Twitter: POSITIVE
+*********************************************************************************
+
+Name of the celebrity:  Danielle Cormack
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMzE4OTY5NDY5OF5BMl5BanBnXkFtZTgwODUyNTI0NDE@._V1_UY209_CR115,0,140,209_AL_.jpg
+Profession: Actress
+Best Work:  Wentworth
+
+Overall Sentiment on Twitter: POSITIVE
+*********************************************************************************
+
+Name of the celebrity:  John Lynch
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMjE3NTAwODE2NV5BMl5BanBnXkFtZTcwNjA4ODIyOA@@._V1_UY209_CR5,0,140,209_AL_.jpg
+Profession: Actor
+Best Work:  The Secret Garden
+
+Overall Sentiment on Twitter: NEUTRAL
+*********************************************************************************
+
+Name of the celebrity:  David Lowery
+
+Celebrity Image: https://m.media-amazon.com/images/M/MV5BMTY1NDU4MjMwOF5BMl5BanBnXkFtZTgwNzYxMDg2OTE@._V1_UY209_CR2,0,140,209_AL_.jpg
+Profession: Editor
+Best Work:  A Ghost Story
+
+Overall Sentiment on Twitter: NEUTRAL
+*********************************************************************************
+

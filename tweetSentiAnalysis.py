@@ -9,10 +9,10 @@ from string import punctuation
 class twitterSentimentAnalysis():
     # Consumer key, consumer secret, access token and access secret
     # from twitter application
-    ckey = ''
-    csecret = ''
-    atoken = ''
-    asecret = ''
+    ckey = 'ebZ49Qyoj8km7nzHWiUpqKT0J'
+    csecret = 'JAmSaEGkvihIAC16eQDiKBKI6HeV06Mh41odphMfxv57R8MB6p'
+    atoken = '934336838029910016-35V6eEx4ergfXPSiyISERQxtsbXhyxY'
+    asecret = '9ZPZ7n4Cr3td9b5HulFZUql7xm2N0ZYpipfRJsC7uPojN'
 	
     # OAuth Authentication
     auth = OAuthHandler(ckey, csecret)

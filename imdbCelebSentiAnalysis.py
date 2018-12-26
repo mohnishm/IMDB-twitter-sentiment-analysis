@@ -24,17 +24,16 @@ def imdbWebScraping():
 
 	# Using html5lib module to parse the html file
     soup = BeautifulSoup(html, "html5lib")
-    mainInfo = soup.find("section", "posters list")
-    bornDate = mainInfo.findChild("h1").text
+    mainInfo = soup.find("div", "lister-list")
 
     celebrityNameList = []
 
     # Getting all the specific celebrity details
-    for i in mainInfo.findAll("a", "poster "):
+    for i in mainInfo.findAll("div", "lister-item mode-detail"):
 
         celebKeyValue[counter] = {}
         # Celebrity Name
-        celebrityName = i.find("span", "title").text
+        celebrityName = i.find("h3").find("a").text
         celebrityNameList.append(celebrityName)
         celebKeyValue[counter]["celebrityName"] = celebrityName
 
@@ -42,7 +41,8 @@ def imdbWebScraping():
         celebKeyValue[counter]["celebrityImg"] = i.img["src"]
 
         # Parsing Profession and the Best Movie
-        profession, bestMovie = i.find("div", "detail").text.split(",")
+        profession = i.find("p", "text-muted text-small").text.strip().split(" ")[0]
+        bestMovie = i.find("p").find("a").text
 
         # Profession
         celebKeyValue[counter]["profession"] = profession
@@ -78,6 +78,8 @@ if __name__ == '__main__':
         print ("Best Work: " + celebKeyValue[i]["bestMovie"] + "\n")
         outputFile.write("Overall Sentiment on Twitter: " + celebKeyValue[i]["tSentiment"] + "\n")
         print ("Overall Sentiment on Twitter: " + celebKeyValue[i]["tSentiment"] + "\n")
+        outputFile.write("*********************************************************************************")
+        print ("*********************************************************************************")
         outputFile.write("\n\n")
         print ("\n\n")
     outputFile.close()
